@@ -1,0 +1,64 @@
+ライセンス
+
+----
+TECS 始めの一歩
+
+Copyright (C) 2017 by 大山 博司
+
+ 上記著作権者は，以下の (1)〜(3) の条件を満たす場合に限り，本ドキュメ
+ ント（本ドキュメントを改変したものを含む．以下同じ）を使用・複製・改
+ 変・再配布（以下，利用と呼ぶ）することを無償で許諾する．
+ (1) 本ドキュメントを利用する場合には，上記の著作権表示，この利用条件
+     および下記の無保証規定が，そのままの形でドキュメント中に含まれて
+     いること．
+ (2) 本ドキュメントを改変する場合には，ドキュメントを改変した旨の記述
+     を，改変後のドキュメント中に含めること．ただし，改変後のドキュメ
+     ントが，TOPPERSプロジェクト指定の開発成果物である場合には，この限
+     りではない．
+ (3) 本ドキュメントの利用により直接的または間接的に生じるいかなる損害
+     からも，上記著作権者およびTOPPERSプロジェクトを免責すること．また，
+     本ドキュメントのユーザまたはエンドユーザからのいかなる理由に基づ
+     く請求からも，上記著作権者およびTOPPERSプロジェクトを免責すること．
+
+ 本ドキュメントは，無保証で提供されているものである．上記著作権者およ
+ びTOPPERSプロジェクトは，本ドキュメントに関して，特定の使用目的に対す
+ る適合性も含めて，いかなる保証も行わない．また，本ドキュメントの利用
+ により直接的または間接的に生じたいかなる損害に関しても，その責任を負
+ わない．
+
+----
+English Version of License
+
+TECS First Step
+
+Copyright (C) 2017 by Hiroshi Oyama
+
+...
+
+ The above copyright holders grant permission gratis to use,
+ duplicate, modify, or redistribute (hereafter called use) this
+ document (including the one made by modifying this document),
+ provided that the following three conditions (1) through (3) are
+ satisfied.
+
+ (1) When this document is used, the above copyright notice, this use
+     conditions, and the disclaimer shown below must be retained in
+     the document without modification.
+
+ (2) When this document is modified, the modified document must
+     include the description that the original document is modified,
+     except for the case that the modified document is a development
+     result of the TOPPERS Project.
+
+ (3) The above copyright holders and the TOPPERS Project are exempt
+     from responsibility for any type of damage directly or indirectly
+     caused from the use of this document and are indemnified by any
+     users or end users of this document from any and all causes of
+     action whatsoever.
+
+ THIS DOCUMENT IS PROVIDED "AS IS." THE ABOVE COPYRIGHT HOLDERS AND
+ THE TOPPERS PROJECT DISCLAIM ANY EXPRESS OR IMPLIED WARRANTIES,
+ INCLUDING, BUT NOT LIMITED TO, ITS APPLICABILITY TO A PARTICULAR
+ PURPOSE. IN NO EVENT SHALL THE ABOVE COPYRIGHT HOLDERS AND THE
+ TOPPERS PROJECT BE LIABLE FOR ANY TYPE OF DAMAGE DIRECTLY OR
+ INDIRECTLY CAUSED FROM THE USE OF THIS DOCUMENT.
