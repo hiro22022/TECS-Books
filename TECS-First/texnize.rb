@@ -218,7 +218,7 @@ bookmarkstype=toc]{hyperref}
 %\\usepackage[bookmarksnumbered=true,dvipdfm]{hyperref}
 
 % プリアンブル
-\\title{組込みコンポーネントシステム TECS \\ 初めの一歩}
+\\title{組込みコンポーネントシステム TECS \\\\ 初めの一歩}
 \\author{大山 博司} 
 \\date{2017年8月15日}
 
